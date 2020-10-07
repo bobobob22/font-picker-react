@@ -45,7 +45,7 @@
 		"release": "np"
 	},
 	"dependencies": {
-		"@samuelmeuli/font-manager": "^1.4.0"
+		"@samuelmeuli/font-manager": "git+https://github.com/bobobob22/font-manager"
 	},
 	"peerDependencies": {
 		"@types/react": "^16.0.0",
